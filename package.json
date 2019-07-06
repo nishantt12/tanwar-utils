@@ -1,0 +1,19 @@
+{
+  "name": "@nishantt12/tanwar-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant Tanwar <nishantt12@gmail.com> (nishanttanwar.in)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nishantt12/tanwar-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishantt12/tanwar-utils/issues"
+  },
+  "homepage": "https://github.com/nishantt12/tanwar-utils#readme",
+  "description": ""
+}
